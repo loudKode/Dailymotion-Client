@@ -2,10 +2,10 @@
 
 Welcome to the Dailymotion-Client wiki!
 
-* upload videos from local H.D
-* remote upload by direct url
-* view videos in (144-240-380-480-720)
-* generate direct video links
+* upload local videos
+* upload remote videos
+* whatch videos in (144-240-380-480-720)
+* generate direct mp4 video links [(Video)](https://www.dailymotion.com/video/x7bdcfq)
 * share videos
 * edit video settings
 * add video tags
