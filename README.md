@@ -15,7 +15,7 @@
 `Download:`
 [https://github.com/loudKode/Dailymotion-Client/releases](https://github.com/loudKode/Dailymotion-Client/releases)
 
-![https://i.postimg.cc/fLvcqg9L/ure-Wiz292.png](https://i.postimg.cc/fLvcqg9L/ure-Wiz292.png)
+![https://i.postimg.cc/9FM1xbGB/D1.png](https://i.postimg.cc/9FM1xbGB/D1.png)
 
 ![https://i.postimg.cc/fyJV7H71/ure-Wiz293.png](https://i.postimg.cc/fyJV7H71/ure-Wiz293.png)
 
