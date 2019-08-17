@@ -9,7 +9,7 @@
 * edit video settings
 * add video tags
 * delete video
-* Send public video from dailymotion account to [Supported Cloud Services](https://github.com/loudKode/Easy-Cloud-Integration/wiki/Supported-Cloud-Services) with ability to specify transferred [video resolution](https://i.postimg.cc/HsVnV1tC/ure-Wiz660.png)
+* Send **public** video from dailymotion account to [Supported Cloud Services](https://github.com/loudKode/Easy-Cloud-Integration/wiki/Supported-Cloud-Services) with ability to specify transferred [video resolution](https://i.postimg.cc/HsVnV1tC/ure-Wiz660.png)
 
 
 `Download:`
